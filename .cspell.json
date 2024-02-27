@@ -1,0 +1,5 @@
+{
+  "words": ["liblaf", "pymake"],
+  "ignorePaths": [".cspell.json", "*-lock.*", "*.lock"],
+  "allowCompoundWords": true
+}
